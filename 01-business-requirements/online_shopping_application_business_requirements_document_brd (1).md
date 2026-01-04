@@ -136,7 +136,7 @@ The purpose of this document is to define the business requirements for the deve
 3. User enters details and submits
 4. System validates input
 5. Account is created and confirmation shown
-![](./images/knowledgetest06.png)
+![](./01-business-requirements/User Registration.png)
 [cookies_diagram](./images/cookies_diagram.drawio)
 
 ### Flow 2: Browse and Add to Cart
