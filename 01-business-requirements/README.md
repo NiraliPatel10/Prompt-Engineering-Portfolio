@@ -1,6 +1,6 @@
 # Online Shopping Application – Business Analysis Case Study
 
-## 📌 Project Overview
+## Project Overview
 This repository presents a **Business Analysis case study** for an Online Shopping Application.  
 The objective of this project is to demonstrate how high-level stakeholder ideas are translated into **structured business requirements, functional requirements, user stories, and process diagrams** using industry-standard BA practices.
 
@@ -8,7 +8,7 @@ The solution supports core e-commerce functionality including user account manag
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 - Enable digital product sales through an online platform
 - Improve customer accessibility and user experience
 - Support secure and scalable online transactions
@@ -16,7 +16,7 @@ The solution supports core e-commerce functionality including user account manag
 
 ---
 
-## 📂 Artefacts Included
+## Artefacts Included
 
 ### 1. Business Requirements
 - Clear articulation of business needs and goals
@@ -45,7 +45,7 @@ The solution supports core e-commerce functionality including user account manag
 
 ---
 
-## 🔄 Process & Design Artefacts
+## Process & Design Artefacts
 
 ### Wireframe-Level Functional Flows
 - User Registration
@@ -66,7 +66,7 @@ These flows describe **screen-level interactions** and support UX and developmen
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - Business Requirements Documentation (BRD)
 - Functional Requirements Specification (FRD)
 - Agile User Stories
@@ -77,7 +77,7 @@ These flows describe **screen-level interactions** and support UX and developmen
 
 ---
 
-## 📈 How This Project Can Be Used
+## How This Project Can Be Used
 - Business Analyst portfolio showcase
 - Interview case study discussion
 - Requirements-to-design traceability example
@@ -86,7 +86,7 @@ These flows describe **screen-level interactions** and support UX and developmen
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Admin product management
 - Inventory management
 - Order tracking and status updates
@@ -95,13 +95,13 @@ These flows describe **screen-level interactions** and support UX and developmen
 
 ---
 
-## 👤 Author
+## Author
 **Business Analyst Case Study**  
 Prepared to demonstrate enterprise-level analysis, documentation, and modelling skills.
 
 ---
 
-## 📎 Note
+## Note
 This project focuses on **analysis and documentation** rather than application development.  
 All artefacts are created to reflect real-world business analysis deliverables.
 
