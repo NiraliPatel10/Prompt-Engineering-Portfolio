@@ -138,7 +138,7 @@ The purpose of this document is to define the business requirements for the deve
 5. Account is created and confirmation shown
 
 ![](./image/User-Registration.png)
-[cookies_diagram](./images/cookies_diagram.drawio)
+[User Registration](./image/User-Registration.drawio)
 
 ### Flow 2: Browse and Add to Cart
 1. User selects a product category
@@ -147,6 +147,9 @@ The purpose of this document is to define the business requirements for the deve
 4. User adds product to cart
 5. System updates cart summary
 
+![](./image/Browse-and-Add-to-Cart.png)
+[Browse and Add to Cart](./image/Browse-and-Add-to-Cart.drawio)
+
 ### Flow 3: Checkout Process
 1. User reviews shopping cart
 2. User proceeds to checkout
@@ -154,6 +157,9 @@ The purpose of this document is to define the business requirements for the deve
 4. User selects payment method
 5. Payment is processed
 6. Order confirmation is displayed
+   
+![](./image/Browse-and-Add-to-Cart.png)
+[cookies_diagram](./image/Browse-and-Add-to-Cart.drawio)
 
 ---
 
