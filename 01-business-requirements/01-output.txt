@@ -1,233 +1,75 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
-{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
-{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
-{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
-{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
-{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
-{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
-{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
-{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
-{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}
-{\list\listtemplateid13\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid13}
-{\list\listtemplateid14\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid1301\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid14}
-{\list\listtemplateid15\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid15}
-{\list\listtemplateid16\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid16}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww30040\viewh18980\viewkind0
-\deftab720
-\pard\pardeftab720\sa298\partightenfactor0
+##1. Business Requirements
+	-	The organisation requires an online shopping application to enable digital product sales and improve customer accessibility.
+	-	The application must support secure customer account creation and management to personalise the shopping experience.
+	-	Customers must be able to browse products efficiently by category to enhance product discoverability.
+	-	The solution must allow customers to select products and manage them within a shopping cart prior to purchase.
+	-	The application must support a seamless checkout process with multiple payment methods to maximise conversion rates.
+	-	The system must provide automated email notifications to confirm order placement and status updates.
 
-\f0\b\fs36 \cf0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 1. Business Requirements\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls1\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The organisation requires an online shopping application to enable digital product sales and improve customer accessibility.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The application must support secure customer account creation and management to personalise the shopping experience.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Customers must be able to browse products efficiently by category to enhance product discoverability.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The solution must allow customers to select products and manage them within a shopping cart prior to purchase.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The application must support a seamless checkout process with multiple payment methods to maximise conversion rates.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system must provide automated email notifications to confirm order placement and status updates.\
-\pard\pardeftab720\partightenfactor0
-\cf3 \strokec3 \
-\pard\pardeftab720\sa298\partightenfactor0
+##2. Functional Requirements
+	-	The system shall allow users to register, log in, and manage personal accounts.
+	-	The system shall display products organised by predefined categories.
+	-	The system shall enable users to add, update, and remove products from a shopping cart.
+	-	The system shall calculate order totals, including taxes and delivery charges, during checkout.
+	-	The system shall integrate with multiple payment gateways (e.g., credit/debit cards, digital wallets).
+	-	The system shall generate and send automated email notifications upon successful order placement.
 
-\f0\b\fs36 \cf0 \strokec2 2. Functional Requirements\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls2\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall allow users to register, log in, and manage personal accounts.\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall display products organised by predefined categories.\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall enable users to add, update, and remove products from a shopping cart.\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall calculate order totals, including taxes and delivery charges, during checkout.\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall integrate with multiple payment gateways (e.g., credit/debit cards, digital wallets).\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall generate and send automated email notifications upon successful order placement.\
-\pard\pardeftab720\partightenfactor0
-\cf3 \strokec3 \
-\pard\pardeftab720\sa298\partightenfactor0
+##3. User Stories
+	-	As a customer, I want to create an account so that I can securely manage my orders and personal details.
+	-	As a customer, I want to browse products by category so that I can quickly find items of interest.
+	-	As a customer, I want to add products to a shopping cart so that I can review my selections before purchasing.
+	-	As a customer, I want to choose from multiple payment options during checkout so that I can pay using my preferred method.
+	-	As a customer, I want to receive email notifications for my orders so that I am informed about my purchase status.
 
-\f0\b\fs36 \cf0 \strokec2 3. User Stories\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls3\ilvl0
-\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 As a customer
-\f1\b0 , I want to create an account so that I can securely manage my orders and personal details.\
-\ls3\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 As a customer
-\f1\b0 , I want to browse products by category so that I can quickly find items of interest.\
-\ls3\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 As a customer
-\f1\b0 , I want to add products to a shopping cart so that I can review my selections before purchasing.\
-\ls3\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 As a customer
-\f1\b0 , I want to choose from multiple payment options during checkout so that I can pay using my preferred method.\
-\ls3\ilvl0
-\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 As a customer
-\f1\b0 , I want to receive email notifications for my orders so that I am informed about my purchase status.\
-\pard\pardeftab720\sa298\partightenfactor0
+##4. Non-Functional Requirements
+Performance
+	•	The system shall support concurrent user access without performance degradation.
+	•	Product listing and checkout pages shall load within acceptable response times under normal operating conditions.
+Security
+	•	The system shall enforce secure authentication and authorisation for all user accounts.
+	•	Payment processing shall comply with industry security standards (e.g., PCI-DSS).
+	•	User data shall be encrypted in transit and at rest.
+Availability & Reliability
+	•	The application shall be available 24/7, excluding scheduled maintenance windows.
+	•	The system shall ensure data consistency and prevent duplicate order creation.
+Usability
+	•	The user interface shall be intuitive and accessible across desktop and mobile devices.
+	•	The application shall follow accessibility best practices (e.g., WCAG guidelines).
+Scalability
+	•	The solution shall support future growth in users, products, and transaction volumes without major redesign.
 
-\f0\b\fs36 \cf0 4. Non-Functional Requirements\
-\pard\pardeftab720\sa280\partightenfactor0
+5. Acceptance Criteria
+Account Management
+	•	Given that a user provides valid details when they register, then an account is successfully created.
+	•	Given a registered user, when they log in, they are authenticated and granted access.
+Product Browsing
+	•	Given that product categories exist, when a user selects a category, then relevant products are displayed.
+	•	Given products are listed, when a user selects a product, the product details are shown.
+Shopping Cart
+	•	Given that a product is selected, when the user adds it to the cart, the cart updates accurately.
+	•	Given items are in the cart, when the user modifies quantities or removes items, then totals are recalculated correctly.
+Checkout & Payment
+	•	Given items are in the cart, when the user proceeds to checkout, then the order summary is displayed.
+	•	Given that multiple payment options are available, when the user selects one and completes payment, the order is confirmed.
+Notifications
+	•	Given that an order is successfully placed, when the transaction is completed, an order confirmation email is sent to the user.
 
-\fs28 \cf0 \strokec2 Performance\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls4\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall support concurrent user access without performance degradation.\
-\ls4\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Product listing and checkout pages shall load within acceptable response times under normal operating conditions.\
-\pard\pardeftab720\sa280\partightenfactor0
+6. High-Level Process Flow
+	1	User accesses the online shopping application.
+	2	User logs in or registers a new account.
+	3	User browses products by category.
+	4	User selects products and adds them to the shopping cart.
+	5	User reviews the cart and proceeds to checkout.
+	6	User selects a payment method and completes payment.
+	7	System confirms the order.
+	8	System sends an order confirmation email to the user.
 
-\f0\b\fs28 \cf0 Security\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls5\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall enforce secure authentication and authorisation for all user accounts.\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Payment processing shall comply with industry security standards (e.g., PCI-DSS).\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User data shall be encrypted in transit and at rest.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Availability & Reliability\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls6\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The application shall be available 24/7, excluding scheduled maintenance windows.\
-\ls6\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The system shall ensure data consistency and prevent duplicate order creation.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Usability\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls7\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The user interface shall be intuitive and accessible across desktop and mobile devices.\
-\ls7\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The application shall follow accessibility best practices (e.g., WCAG guidelines).\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Scalability\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls8\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 The solution shall support future growth in users, products, and transaction volumes without major redesign.\
-\pard\pardeftab720\partightenfactor0
-\cf3 \strokec3 \
-\pard\pardeftab720\sa298\partightenfactor0
-
-\f0\b\fs36 \cf0 \strokec2 5. Acceptance Criteria\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\fs28 \cf0 \strokec2 Account Management\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls9\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given that a user provides valid details when they register, then an account is successfully created.\
-\ls9\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given a registered user, when they log in, they are authenticated and granted access.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Product Browsing\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls10\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given that product categories exist, when a user selects a category, then relevant products are displayed.\
-\ls10\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given products are listed, when a user selects a product, the product details are shown.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Shopping Cart\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls11\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given that a product is selected, when the user adds it to the cart, the cart updates accurately.\
-\ls11\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given items are in the cart, when the user modifies quantities or removes items, then totals are recalculated correctly.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Checkout & Payment\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls12\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given items are in the cart, when the user proceeds to checkout, then the order summary is displayed.\
-\ls12\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given that multiple payment options are available, when the user selects one and completes payment, the order is confirmed.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Notifications\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls13\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Given that an order is successfully placed, when the transaction is completed, an order confirmation email is sent to the user.\
-\pard\pardeftab720\partightenfactor0
-\cf3 \strokec3 \
-\pard\pardeftab720\sa298\partightenfactor0
-
-\f0\b\fs36 \cf0 \strokec2 6. High-Level Process Flow\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls14\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User accesses the online shopping application.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User logs in or registers a new account.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User browses products by category.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User selects products and adds them to the shopping cart.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User reviews the cart and proceeds to checkout.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 User selects a payment method and completes payment.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	7	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 System confirms the order.\
-\ls14\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	8	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 System sends an order confirmation email to the user.\
-\pard\pardeftab720\partightenfactor0
-\cf3 \strokec3 \
-\pard\pardeftab720\sa298\partightenfactor0
-
-\f0\b\fs36 \cf0 \strokec2 7. Assumptions & Dependencies \
-\pard\pardeftab720\sa280\partightenfactor0
-
-\fs28 \cf0 \strokec2 Assumptions\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls15\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Users have access to a valid email address.\
-\ls15\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Payment gateways are available and operational.\
-\ls15\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Product catalogue data is maintained by an internal admin system.\
-\pard\pardeftab720\sa280\partightenfactor0
-
-\f0\b\fs28 \cf0 Dependencies\
-\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
-\ls16\ilvl0
-\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Third-party payment gateway integration.\
-\ls16\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Email service provider for notification delivery.\
-\ls16\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Hosting infrastructure supporting scalability and availability.\
-}
+7. Assumptions & Dependencies 
+Assumptions
+	•	Users have access to a valid email address.
+	•	Payment gateways are available and operational.
+	•	Product catalogue data is maintained by an internal admin system.
+Dependencies
+	•	Third-party payment gateway integration.
+	•	Email service provider for notification delivery.
+	•	Hosting infrastructure supporting scalability and availability.
