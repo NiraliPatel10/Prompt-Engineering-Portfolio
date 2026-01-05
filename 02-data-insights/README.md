@@ -1,31 +1,38 @@
-# Customer Churn Analysis – Risk & Decision Analytics
+# Customer Churn Analysis – Data Insights Generator
 
-## Project Overview
-This project analyses customer churn data to identify risk drivers and provide actionable business recommendations to reduce customer attrition.
+### Project Overview
+This project demonstrates how prompt engineering can be used to transform raw customer churn data into executive-ready insights for business decision-making.
 
-## Dataset
-Customer-level data including tenure, charges, contract type, payment method, and churn status.
+### Dataset
+Customer-level dataset containing tenure, charges, contract type, payment method, and churn status for 300 customers.
 
-## Objectives
-- Calculate churn KPIs
-- Identify high-risk customer segments
-- Analyse churn drivers
-- Provide retention-focused recommendations
+### Objectives
+- Identify churn-related KPIs
+- Analyse churn drivers and high-risk segments
+- Assess revenue and retention risks
+- Provide actionable, business-focused recommendations
 
-## Tools Used
-- Excel / Google Sheets
-- Pivot Tables
-- Basic Charts
+### Approach
+A structured analytical prompt was designed to guide a large language model to:
+- Focus on executive-level insights
+- Prioritise business impact over technical detail
+- Deliver clear and actionable recommendations
 
-## Key Insights
-- Month-to-month contracts show the highest churn risk
-- Customers with low tenure are more likely to churn
-- Long-term contracts reduce churn significantly
+### Key Insights
+- Month-to-month contracts present the highest churn risk
+- Customers with tenure below 12 months are significantly more likely to churn
+- Long-term contracts contribute to revenue stability
+- Payment method selection influences customer retention
 
-## Recommendations
-- Incentivise long-term contracts
-- Improve new customer onboarding
-- Launch early churn-prevention campaigns
+### Business Value
+- Supports proactive churn reduction strategies
+- Improves revenue predictability
+- Enables targeted retention initiatives
+- Demonstrates AI-assisted analytics for decision support
 
-## Outcome
-This project demonstrates risk analysis, KPI identification, and business-focused decision-making skills.
+### Skills Demonstrated
+- Prompt Engineering
+- Data Analysis & KPI Design
+- Risk Analysis
+- Executive Reporting
+- Business Decision Support
