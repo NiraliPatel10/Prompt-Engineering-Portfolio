@@ -1,37 +1,32 @@
-## Executive Summary – Customer Churn Analysis
+### Executive Summary – Customer Churn Analysis
 
-### Key Performance Indicators (KPIs)
-- Total Customers: Size of the active customer base.
-- Churn Rate (%): Percentage of customers who have left the service.
-- Churned Customers: Absolute number of customers lost.
-- Average Tenure: Indicator of customer loyalty and retention strength.
-- Average Monthly Charges: Revenue exposure per customer.
-- Revenue at Risk: Estimated total charges associated with churned customers.
-- Churn by Segment: Churn rate by contract type, tenure group, and payment method.
+## Key Performance Indicators (KPIs)
+- Total Customers: 300
+- Churn Rate: Indicates proportion of customers who exited the service
+- Churned Customers: Absolute number of lost customers
+- Average Tenure: Measures customer loyalty and retention strength
+- Average Monthly Charges: Indicates revenue exposure per customer
+- Revenue at Risk: Estimated total charges associated with churned customers
+- Churn by Segment: Churn rate segmented by contract type, tenure band, and payment method
 
-### Key Trends Identified
+## Key Trends Identified
+- Tenure-Driven Churn: Customers with tenure below 12 months show significantly higher churn, indicating early lifecycle vulnerability.
+- Contract-Type Impact: Month-to-month contracts exhibit the highest churn, while one-year and two-year contracts demonstrate stronger retention.
+- Revenue Stability: Long-term contract customers contribute more stable and predictable revenue streams.
+- Payment Method Influence: Variations in churn by payment method suggest customer experience or billing friction impacts retention.
 
-- Tenure-Driven Churn: Customers with shorter tenure (particularly under 12 months) exhibit significantly higher churn, indicating early lifecycle vulnerability.
-- Contract-Type Impact: Month-to-month contracts show materially higher churn compared to one-year and two-year contracts, highlighting the stabilising effect of long-term commitments.
-- Revenue Stability from Long-Term Customers: Customers on longer contracts tend to have higher tenure and lower churn, contributing to predictable revenue.
-- Payment Method Variability: Churn rates vary by payment method, suggesting customer experience or convenience factors influence retention.
+## Key Risks
+- Revenue Volatility Risk: Heavy dependence on month-to-month contracts increases churn volatility and forecasting uncertainty.
+- Early Attrition Risk: High churn among new customers indicates gaps in onboarding and early engagement.
+- Customer Experience Risk: Elevated churn linked to certain payment methods may reflect billing or payment friction.
+- Customer Lifetime Value Erosion: Early churn reduces total revenue realised per customer.
 
-### Key Risks
+## Actionable Insights & Recommendations
+1. Promote Long-Term Contracts: Introduce incentives such as discounts or bundled services to migrate customers from month-to-month plans.
+2. Strengthen Early Engagement: Implement structured onboarding and first-90-day engagement programs.
+3. Proactive Retention Targeting: Flag high-risk customers using tenure and contract indicators and deploy retention campaigns.
+4. Optimise Payment Experience: Encourage lower-risk payment methods and improve billing transparency.
+5. Monitor Revenue at Risk: Regularly track churn-related revenue exposure to prioritise high-impact retention efforts.
 
-- Revenue Instability Risk: Heavy reliance on month-to-month contracts increases churn volatility and makes revenue forecasting less reliable.
-- Early Customer Attrition Risk: High churn among new customers points to potential gaps in onboarding, expectation setting, or early engagement.
-- Customer Experience Risk: Elevated churn associated with specific payment methods may reflect friction in billing or payment processes.
-- Lifetime Value Erosion: Loss of customers early in their lifecycle reduces total charges realised per customer.
-
-### Actionable Insights & Recommendations
-
-- Shift Customers to Long-Term Contracts: Introduce targeted incentives (discounts, value-added services) to convert month-to-month customers to annual or multi-year contracts.
-- Strengthen Early Engagement: Implement focused onboarding and first-90-day engagement programs to reduce early-stage churn.
-- Target High-Risk Segments Proactively: Use tenure and contract type to flag high-risk customers and deploy retention campaigns before churn occurs.
-- Optimise Payment Experience: Promote lower-risk payment methods and review billing processes to minimise payment-related churn.
-- Monitor Revenue at Risk: Track churned customer revenue regularly to prioritise retention efforts with the highest financial impact.
-
-### Overall Conclusion:
-Customer churn is primarily driven by contract structure and customer tenure, with early-stage customers and short-term contracts presenting the greatest risk. 
-By focusing on early retention, contract optimisation, and improved customer experience, the organisation can significantly reduce churn and improve long-term 
-revenue stability.
+## Conclusion
+Customer churn is primarily driven by contract structure and early customer lifecycle behaviour. By focusing on early retention, contract optimisation, and improved customer experience, the organisation can significantly reduce churn and improve long-term revenue stability.
