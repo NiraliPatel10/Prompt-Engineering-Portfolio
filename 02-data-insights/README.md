@@ -1,4 +1,5 @@
 # Customer Churn Analysis – Risk & Decision Analytics
+Risk & decision analytics project using Excel
 
 ## Project Overview
 This project analyses customer churn data to identify high-risk customer segments and provide actionable business recommendations.
