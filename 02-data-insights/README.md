@@ -1,17 +1,16 @@
 # Customer Churn Analysis – Risk & Decision Analytics
-Risk & decision analytics project using Excel
 
 ## Project Overview
-This project analyses customer churn data to identify high-risk customer segments and provide actionable business recommendations.
+This project analyses customer churn data to identify risk drivers and provide actionable business recommendations to reduce customer attrition.
 
 ## Dataset
-The dataset includes customer tenure, charges, contract type, payment method, and churn status.
+Customer-level data including tenure, charges, contract type, payment method, and churn status.
 
 ## Objectives
 - Calculate churn KPIs
-- Identify churn risk drivers
-- Analyse customer behaviour
-- Provide decision-focused recommendations
+- Identify high-risk customer segments
+- Analyse churn drivers
+- Provide retention-focused recommendations
 
 ## Tools Used
 - Excel / Google Sheets
@@ -19,19 +18,14 @@ The dataset includes customer tenure, charges, contract type, payment method, an
 - Basic Charts
 
 ## Key Insights
-- Month-to-month contract customers show the highest churn risk
-- Customers with less than 12 months tenure are more likely to churn
-- Payment method influences customer retention
-
-## Risks Identified
-- Revenue instability due to high short-term contract churn
-- Early customer attrition risk
-- Payment experience-related churn
+- Month-to-month contracts show the highest churn risk
+- Customers with low tenure are more likely to churn
+- Long-term contracts reduce churn significantly
 
 ## Recommendations
 - Incentivise long-term contracts
-- Improve early customer onboarding
-- Optimise payment experience
+- Improve new customer onboarding
+- Launch early churn-prevention campaigns
 
 ## Outcome
 This project demonstrates risk analysis, KPI identification, and business-focused decision-making skills.
